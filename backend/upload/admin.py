@@ -5,4 +5,3 @@ from .models import UploadedFile
 class UploadedImageAdmin(admin.ModelAdmin):
     list_display = ['id', 'file', 'uploaded_at']  # Optional: customize columns
 
-
