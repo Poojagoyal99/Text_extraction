@@ -1,0 +1,20 @@
+# Node modules (React)
+node_modules/
+build/
+
+# Python (Django)
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+venv/
+
+# Environment variables
+.env
+.env.local
+
+# Django media uploads
+/media/
+
+# MacOS system files
+.DS_Store
